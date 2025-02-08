@@ -2,25 +2,27 @@ Limited Redistribution License for DimenRefactor Studio
 
 Copyright © 2025 DimenRefactor Studio
 
-附带的程序是根据 维度重构工作室有限分发许可证 (简称"许可证"或"协议") 提供的，如果您使用、复制、分发本程序，即表示您同意遵守协议中的规定。
-如果您不同意本协议，则不得使用、复制、分发本协议附带的程序。
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS LICENSE (“AGREEMENT”). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
-1.定义
 
-"程序": 包括但不限于本协议所附带的客户端或服务器软件、更新、补丁、可下载内容、源代码、加载项或修改版本，或其他内容。
-"衍生作品": 基于本程序所作出的修改、注解、细化、完善等，在整体上有原创性的。或者包含了部分或全部本程序的内容的，称为衍生作品。
+
+1.DEFINITIONS
+
+"程序": 包括但不限于本协议所附带的程序、更新、补丁、源代码、文档或其他内容。
+
+“Derivative Works” shall mean any work, whether in Source Code or other form, that is based on (or derived from) the Program and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
+
+“Modified Works” shall mean any work in Source Code or other form that results from an addition to, deletion from, or modification of the contents of the Program, including, for purposes of clarity any new file in Source Code form that contains any contents of the Program. Modified Works shall not include works that contain only declarations, interfaces, types, classes, structures, or files of the Program solely in each case in order to link to, bind by name, or subclass the Program or Modified Works thereof.
 "贡献": 您做出的修改、注解、细化、完善等内容。
 "贡献者": 包括初始贡献者(指根据本协议分发的初始内容)及每个后续贡献者。
 
-2.授予权利
+2.GRANT OF RIGHTS
 
-(a) 根据本协议条款，初始贡献者特此授予所有人非排他性、全球性、免版税的版权许可，以复制、准备本程序、公开展示、公开表演、分发和再许可该程序。
+(a) 根据本协议条款，允许接受者使用、复制、修改、分发本程序。但不包含本程序可能拥有的版权、专利或所有权。
 
-(b) 根据本协议条款，初始贡献者特此授予所有人许可专利下的非排他性、全球性、免版税的专利许可，以源代码或其他形式制造、使用、出售、要约出售、进口和以其他方式转让该程序。如果在后续贡献者添加贡献时，贡献的添加导致该组合被许可专利覆盖，则该专利许可应适用于贡献和程序的组合。专利许可不适用于包括出资在内的任何其他组合。本协议下没有硬件本身的许可。
+(c) 作者不保证该程序及其衍生作品或修改作品不会侵犯任何其他实体的专利或其他知识产权。对于任何其他实体基于侵犯知识产权或其他原因提出的索赔，作者不对此承担任何责任。
 
-(c) 任何贡献者都不保证该程序和其衍生作品不会侵犯任何其他实体的专利或其他知识产权。对于任何其他实体基于侵犯知识产权或其他原因提出的索赔，任何贡献者都不对此承担任何责任。
-
-(d) 任何贡献者对其贡献均拥有所有权。
+(d) 衍生作品的作者对衍生作品拥有所有权（及可能拥有的版权）。
 
 (e) 初始贡献者保留撤下任何与本程序相关的内容的权利，并且初始贡献者保留本程序的所有权。
 
@@ -28,13 +30,19 @@ Copyright © 2025 DimenRefactor Studio
 
 3.要求
 
-(3.1) 当您以任何形式分发本程序（或其中的任一部分）或衍生作品时，您必须遵守以下规定:
-    (a) 必须以合理方式向所有人说明任何贡献者都不对此承担任何责任
+(3.1) 当您以任何形式分发本程序（或其中的任一部分）时必须遵守以下规定:
+    (a) 必须以合理方式向所有人说明作者不对此承担任何责任
     (b) 必须在每一个分发中包含本协议的副本，并且不能够对副本进行任何形式的修改
     (c) 每一个分发的名称都必须与本程序的名称有明显区分
     (d) 必须以合理方式向所有人说明本程序的源代码可以免费访问，以及提供可以直接访问本程序的源代码的链接
 
-(3.2) 衍生作品和贡献在遵守本协议的情况下可以以其他许可证分发，只要这些许可证不与本许可证冲突。
+(3.2) 衍生作品和修改后的作品在发布时必须遵守以下规定:
+    (a) 必须声明作者不对此承担任何责任
+    (a) 必须声明作品使用了本程序（或其中的任一部分）
+    (b) 必须在作品中包含本协议的副本，并且不能够对副本进行任何形式的修改
+    (c) 作品的名称必须与本程序的名称有明显区分
+    (d) 必须以合理方式向所有人说明本程序的源代码可以免费访问，以及提供可以直接访问本程序的源代码的链接
+    (e) 作品的其他部分（不包括本程序的部分）可以以其他许可证发布，但这些许可证不应适用于本程序，也不应违反本协议相关规定。
 
 4.免除责任
 
